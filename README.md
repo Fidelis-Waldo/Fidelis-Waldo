@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fidelis-Waldo
 - 👀 I’m interested in CyberSecurity and Data Science
-- 🌱 I’m currently learning CyberSecurity with CberSafe Foundation
-- 💞️ I’m looking to collaborate on projects involving CyberSecurity 
+- 🌱 I’m currently an intern at DSNai
+- 💞️ I’m looking to collaborate on projects involving CyberSecurity and Data Science
 - 📫 How to reach me Emersonemeldo@gmail.com
 
 <!---
